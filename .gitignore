@@ -1,0 +1,4 @@
+dataset/*
+self_checking/*
+test_dataset/*
+train_dataset/*
